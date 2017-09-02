@@ -1,0 +1,10 @@
+table {
+  width: 400px;
+  height: 200px;
+}
+tr {
+  vertical-align: top;
+}
+th {
+  vertical-align: middle;
+}

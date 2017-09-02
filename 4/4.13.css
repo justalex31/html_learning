@@ -1,0 +1,23 @@
+h3 {
+  color: blue;
+  text-align: center;
+}
+p {
+  text-indent: 30px;
+  font-size: 16px;
+}
+span {
+  color: red;
+  font-weight: bold;
+}
+i {
+  color: blue;
+}
+h4 {
+  text-align: center;
+  color: blue;
+}
+h5 {
+  text-align: center;
+  color: blue;
+}

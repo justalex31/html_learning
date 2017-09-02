@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  color: red;
+}
+h2 {
+  color: green;
+}
+ol {
+  color: red;
+}
+i {
+  color: blue;
+}
+b {
+  color: red;
+  font-size: 20px;
+}
+p {
+  font: normal 13px Arial;
+}
+ul {
+  color: gray;
+}
